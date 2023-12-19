@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\button.51\button.51\bin\Debug\button.51.exe.config
+C:\Users\User\Desktop\button.51\button.51\bin\Debug\button.51.exe
+C:\Users\User\Desktop\button.51\button.51\bin\Debug\button.51.pdb
+C:\Users\User\Desktop\button.51\button.51\obj\Debug\button.51.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\button.51\button.51\obj\Debug\button.51.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\button.51\button.51\obj\Debug\button._51.Form1.resources
+C:\Users\User\Desktop\button.51\button.51\obj\Debug\button._51.Properties.Resources.resources
+C:\Users\User\Desktop\button.51\button.51\obj\Debug\button.51.csproj.GenerateResource.cache
+C:\Users\User\Desktop\button.51\button.51\obj\Debug\button.51.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\button.51\button.51\obj\Debug\button.51.exe
+C:\Users\User\Desktop\button.51\button.51\obj\Debug\button.51.pdb
